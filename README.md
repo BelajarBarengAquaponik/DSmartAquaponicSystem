@@ -1,2 +1,1 @@
-# SmartAquaponicSystem
-Aquaponik - Tanam Cara Malas :)
+# Distributed Smart Aquaponic System
